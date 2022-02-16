@@ -1,7 +1,7 @@
 {
   "name": "eleventy-demo",
   "version": "1.0.0",
-  "description": "",
+  "description": "To get started, clone this repo, cd into it, and run `npm install`.",
   "main": "index.js",
   "scripts": {
     "start": "npx @11ty/eleventy --serve",
@@ -12,5 +12,13 @@
   "license": "ISC",
   "dependencies": {
     "@11ty/eleventy": "^0.12.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siakaramalegos/eleventy-demo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/siakaramalegos/eleventy-demo/issues"
+  },
+  "homepage": "https://github.com/siakaramalegos/eleventy-demo#readme"
 }
